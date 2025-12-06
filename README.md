@@ -87,7 +87,7 @@ A fully-featured 2D dungeon escape game built with Phaser.js and React, featurin
    ```
 
 3. **Open your browser**:
-   Navigate to `http://localhost:5173` (or the port shown in your terminal)
+   Navigate to `http://localhost:5173` ([or the port shown in your terminal](https://dungeon-escape-mini-adventure.vercel.app/))
 
 4. **Build for production**:
    ```bash
